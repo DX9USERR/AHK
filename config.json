@@ -1,0 +1,24 @@
+{
+    "Yeno": {
+      "AimAssist_Misc": {
+        "Keybind": "RButton"
+      },
+      "AimAssist_Configuration": {
+        "Col_VN": 3,
+        "Zero_X": 880,
+        "Zero_Y": 600,
+        "FieldOfView_X": 100,
+        "FieldOfView_Y": 100,
+        "Target_X": 880,
+        "Target_Y": 600,
+        "LastTarget_X": 880,
+        "LastTarget_Y": 600
+      },
+      "AimAssist_HitPartXY": {
+        "Direction_X1": 1,
+        "Direction_X2": -1,
+        "Direction_Y1": 1,
+        "Direction_Y2": -1
+      }
+    }
+  }

@@ -1,0 +1,19 @@
+{
+    "Yeno_TB": {
+        "TriggerBot_Keybinds": {
+            "Toggle_OnOff_Key": "CapsLock",
+            "Panic_Key": "Escape",
+            "Key_Hold": "RButton"
+        },
+        "Shooting_Configuration": {
+            "Field_Of_View": 5,
+            "Click_Delay": 5
+        },
+        "TriggerBot_Sensitivity": {
+            "PixelWhiteSensitivity": 20,
+            "PixelBlackSensitivity": 20,
+            "PixelBeigeSensitivity": 20,
+            "PixelBrownSensitivity": 20
+        }
+    }
+}
